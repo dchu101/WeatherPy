@@ -222,7 +222,7 @@ cities_df.plot.scatter('Latitude',
 
 
 
-![png](output_5_1.png)
+![png](output1_LatLong.png)
 
 
 
@@ -245,7 +245,7 @@ cities_df.plot.scatter('Latitude',
 
 
 
-![png](output_6_1.png)
+![png](output2_LatTemp.png)
 
 
 
@@ -268,7 +268,7 @@ cities_df.plot.scatter('Latitude',
 
 
 
-![png](output_7_1.png)
+![png](output3_LatHumid.png)
 
 
 
@@ -291,7 +291,7 @@ cities_df.plot.scatter('Latitude',
 
 
 
-![png](output_8_1.png)
+![png](output4_LatCloud.png)
 
 
 
@@ -314,5 +314,5 @@ cities_df.plot.scatter('Latitude',
 
 
 
-![png](output_9_1.png)
+![png](output5_LatWind.png)
 
