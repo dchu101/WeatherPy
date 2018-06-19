@@ -2,7 +2,7 @@
 
 * City temperature peak approaching +25 N latitude, rather than at the equator. This is likely because the data was pulled in June 18, 2018, a few days before the Northern Hemisphere's Summer Equinox. A year-long average would likely yield a peak at the equator, but that historical data is not available from the free tier of the Open Weather Map API.
 
-* City temperatures in the southern hemisphere have less variance than in northern hemisphere cities. This is likely due to narrower non-Antarctic landmasses in the Southern Hemisphere. On the City Coordinate Distribution chart, the city locations are displayed in a manner that mirrors a world map. The negative latitude cities are clustered longtitudinally around -60 W (South America), +25 E (Subequatorial Africa), and +150 E (Oceania and much of Indonesia). Positive latitude cities have a much more broad and even longitudinal distribution, reflecting more available landmass East-West.
+* City temperatures in the southern hemisphere are more tightly clustered than in northern hemisphere cities, with fewer significant outliers from the trendline. This is likely due to narrower non-Antarctic landmasses in the Southern Hemisphere. On the City Coordinate Distribution chart, the city locations are displayed in a manner that mirrors a world map. The negative latitude cities are clustered longtitudinally around -60 W (South America), +25 E (Subequatorial Africa), and +150 E (Oceania and much of Indonesia). Positive latitude cities have a much more broad and even longitudinal distribution, reflecting more available landmass East-West.
 
 * Humidity, Wind Speed, and Cloud Cover do not have any discernable relationship with Latitude.
 
